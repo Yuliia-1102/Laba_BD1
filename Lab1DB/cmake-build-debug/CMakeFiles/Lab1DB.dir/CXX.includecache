@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yana/CLionProjects/Lab1DB/functions.h
+
+C:/Users/Yana/CLionProjects/Lab1DB/main.cpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+string.h
+-
+functions.h
+C:/Users/Yana/CLionProjects/Lab1DB/functions.h
+

@@ -1,0 +1,3 @@
+C:/Users/Yana/CLionProjects/Lab1DB/cmake-build-debug/CMakeFiles/Lab1DB.dir
+C:/Users/Yana/CLionProjects/Lab1DB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yana/CLionProjects/Lab1DB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
